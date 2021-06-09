@@ -5,7 +5,7 @@ Summary some finance papers I'm interested.
 
 ### Politics and law
 
-##### Are Judges Like Umpires? Political Affiliation and Corporate Prosecutions
+#### Are Judges Like Umpires? Political Affiliation and Corporate Prosecutions
 
 Judges appointed by a democrat president impose larger fines for corporate crimes involving environmental and labor regulations while Republican-appointed judges impose larger fines for crimes involving the hiring of illegal immigrants.
 
