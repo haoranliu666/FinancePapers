@@ -13,7 +13,7 @@ a judge is **randomly selected** from the federal judges that preside over that 
 ```diff
 - Difference-in-differences setting:
 
-Dependent variables can be the type of decision of guilt, or fine if pleaded guilty. 
+Dependent variables can be the type of decision of guilt, or fine. 
 
 Core intersection item is Democrat X DemocratTilt
 
@@ -24,7 +24,7 @@ Democrat
 DemocratTilt 
 = 1 if cases involving labor or environmental crimes;
 = -1 if immigration crimes; 
-= 0 if crimes that do not easily lend themselves to a partisan classification
+= 0 if crimes that do not easily lend themselves to a partisan classification.
 
 Control for judge, crime type, and year fixed effects.
 ```
