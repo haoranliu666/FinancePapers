@@ -3,9 +3,7 @@ Summary of some finance papers I'm interested in.
 
 ## AFA2021
 
-### Politics and law
-
-#### Are Judges Like Umpires? Political Affiliation and Corporate Prosecutions
+### Are Judges Like Umpires? Political Affiliation and Corporate Prosecutions
 
 Judges appointed by a democrat president impose larger fines for corporate crimes involving environmental and labor regulations while Republican-appointed judges impose larger fines for crimes involving the hiring of illegal immigrants.
 
@@ -23,7 +21,7 @@ DemocratTilt = 1 if cases involving labor or environmental crimes; -1 if immigra
 
 Control for judge, crime type, and year fixed effects.
 
-#### Do Shareholders Gain from Their Right to Sue? Evidence from Federal Judge Turnover
+### Do Shareholders Gain from Their Right to Sue? Evidence from Federal Judge Turnover
 
 Shareholders’ right to sue corporations and managers for breach of securities laws causes equity value loss.
 
