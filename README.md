@@ -11,11 +11,11 @@ Judges appointed by a democrat president impose larger fines for corporate crime
 
 To assess whether judicial political affiliations affect the outcomes of corporate prosecutions, they construct data on federal corporate prosecutions and the political affiliation of federal judges, which are nominated by the President for lifetime appointments. And judges do have political preferences. Once cases are assigned to a prosecution office in the US, a judge is **randomly selected** from the federal judges that preside over that particular jurisdiction.
 
-Difference-in-differences
+Difference-in-differences setting:
 
 Dependent variables can be the type of decision of guilt, or fine if pleaded guilty. 
 
-Core intersection item is Democrat*DemocratTilt
+Core intersection item is Democrat X DemocratTilt
 
 Democrat = 1 if the judge is nominated by a Democrat President, 0 if Republican.
 
