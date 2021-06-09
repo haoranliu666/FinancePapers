@@ -31,6 +31,6 @@ While federal securities laws are the same across all public firms and U.S. stat
 
 Dependent variable is cumulative abnormal stock return of the firm in the 41 days around the change in court composition.
 
-Key regressor Change in ProShareholder = 1  if a judicial turnover increases the shareholder-friendliness of district court k, or it is equal to -1 if the judicial nomination decreases the shareholder-friendliness of that court, equal to 0 for firms in the comparison group, i.e., unexposed firms.
+Key regressor Change in ProShareholder = 1  if a judicial turnover increases the shareholder-friendliness of district court k where the firm headquartered, or it is equal to -1 if the judicial nomination decreases the shareholder-friendliness of that court, equal to 0 for firms in the comparison group, i.e., unexposed firms.
 
-Control for size, book-to-market, previous 12 months stock returns, lagged one-month stock return,  stock return volatility, profitability, institutional ownership, district fixed effects, state × date fixed effects.
+Control for some company characteristics, district fixed effects, state × date fixed effects.
