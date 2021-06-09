@@ -3,7 +3,7 @@ Summary of some finance papers I'm interested in.
 
 ## AFA2021
 
-### Are Judges Like Umpires? Political Affiliation and Corporate Prosecutions
+### Paper: Are Judges Like Umpires? Political Affiliation and Corporate Prosecutions
 
 Judges appointed by a democrat president impose larger fines for corporate crimes involving environmental and labor regulations while Republican-appointed judges impose larger fines for crimes involving the hiring of illegal immigrants.
 
@@ -21,7 +21,7 @@ DemocratTilt = 1 if cases involving labor or environmental crimes; -1 if immigra
 
 Control for judge, crime type, and year fixed effects.
 
-### Do Shareholders Gain from Their Right to Sue? Evidence from Federal Judge Turnover
+### Paper: Do Shareholders Gain from Their Right to Sue? Evidence from Federal Judge Turnover
 
 Shareholders’ right to sue corporations and managers for breach of securities laws causes equity value loss.
 
@@ -35,13 +35,13 @@ Key regressor Change in ProShareholder = 1  if a judicial turnover increases the
 
 Control for some company characteristics, district fixed effects, state × date fixed effects.
 
-### Grit and Credit Risk: Evidence from Student Loans
+### Paper: Grit and Credit Risk: Evidence from Student Loans
 
 Students who quit courses during college are 13% more likely to default on student loans than their perseverant peers, controlling for conventional risk factors. Students who voluntarily repeat courses after performing poorly are 13% less likely to default than peers who give up.
 
 Data unavailable, fixed effect.
 
-### Peer Effect in Product Adoption*
+### Paper: Peer Effect in Product Adoption*
 
 A new phone purchase by a friend has a large positive and long-term effect on an individual’s own demand for phones of the same brand, most of which is concentrated on the particular model purchased by the friend. 
 
