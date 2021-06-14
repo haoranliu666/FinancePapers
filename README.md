@@ -1,5 +1,4 @@
 # FinancePapers
-Summary of some finance papers I'm interested in.
 
 ### Mortgage Markets with Climate-Change Risk: Evidence from Wildfires in California
 
