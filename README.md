@@ -8,36 +8,50 @@ Causal relationship between mortgage performance (i.e., delinquency and foreclos
 ```diff
 - DID + + Panel
 
-- 1 Difference-in-differences setting :
+- 1 Difference-in-differences setting:
 
 Dependent variables can be delinquency or foreclosure of a morgage. 
 
 Core intersection item is Treatment X Afterfire.
 
 Treatment 
-= 1 if ; 
-= 0 if .
+= 1 if active mortgage falls inside the wildfire zone and 0 otherwise; 
 
 Afterfire 
-= 1 if ;
-= 0 if ; 
+= 1 if after the fire and 0 otherwise;
 
 Control for mortgage characteristics.
 
-- 2 Difference-in-differences setting :
+- 2 Difference-in-differences setting:
 
 Dependent variables and controls are same as above. 
 
-Core intersection item is Treatment X Afterfire X Bigfire.
+Core intersection item is Treatment X Afterfire X Bigfire1or2.
 
-Bigfire 
-= 1 if ;
-= 0 if ; 
+Bigfire1 
+= the number of mortgages affected by the wildfire;
 
-- 3 Panel setting :
+Bigfire2
+= 1 if the mortgage is affected by a fire that is 1 sd above the average
+wild fire in terms of mortgages affected.
 
+- 3 Panel + IV setting:
+IV: maximum temperature of the month in the location of the property.
 ```
 
+Part of the DID result
+
+<img src="https://github.com/haoranliu666/FinancePapers/blob/main/images/Mortgage%20Markets%20with%20Climate-Change%20Risk.png" width="50%" height="50%">
+
+IV result:
+
+<img src="https://github.com/haoranliu666/FinancePapers/blob/main/images/Mortgage%20Markets%20with%20Climate-Change%20Risk_IV.png" width="50%" height="50%">
+
+
+
+
+
+LTV denote the dynamic loan-to-value for each mortgage at each month
 
 ### Are Judges Like Umpires? Political Affiliation and Corporate Prosecutions
 
