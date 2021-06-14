@@ -1,5 +1,9 @@
 # FinancePapers
 
+### Option Momentum
+
+Stock options with high historical returns continue to outperform options with low returns.
+
 ### The Real Effects of Environmental Activist Investing*
 
 Environmental activist investing targeted firms reduce their toxic releases, greenhouse gas emissions, and cancer-causing pollution. Using DID-PSM on Boardroom Accountability Project (BAP) event. Compares outcomes for plants of firms targeted by the BAP to plants of similar firms that were not targeted by the BAP.
