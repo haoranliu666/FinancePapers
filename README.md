@@ -3,6 +3,45 @@ Summary of some finance papers I'm interested in.
 
 ## AFA2021
 
+### Mortgage Markets with Climate-Change Risk: Evidence from Wildfires in California
+
+Causal relationship between mortgage performance (i.e., delinquency and foreclosure) and climate-change-driven events (i.e., wildfires), using 4 databases: 1. Wildfire events; 2. Mortgage characteristics and performance; 3. Mortgage geolocation and property characteristics; 4. Weather.
+
+
+```diff
+- DID + + Panel
+
+- 1 Difference-in-differences setting :
+
+Dependent variables can be delinquency or foreclosure of a morgage. 
+
+Core intersection item is Treatment X Afterfire.
+
+Treatment 
+= 1 if ; 
+= 0 if .
+
+Afterfire 
+= 1 if ;
+= 0 if ; 
+
+Control for mortgage characteristics.
+
+- 2 Difference-in-differences setting :
+
+Dependent variables and controls are same as above. 
+
+Core intersection item is Treatment X Afterfire X Bigfire.
+
+Bigfire 
+= 1 if ;
+= 0 if ; 
+
+- 3 Panel setting :
+
+```
+
+
 ### Are Judges Like Umpires? Political Affiliation and Corporate Prosecutions
 
 Judges appointed by a democrat president impose larger fines for corporate crimes involving environmental and labor regulations while Republican-appointed judges impose larger fines for crimes involving the hiring of illegal immigrants.
