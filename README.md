@@ -1,22 +1,46 @@
 # FinancePapers
 
+### The Real Effects of Environmental Activist Investing*
+
+Environmental activist investing targeted firms reduce their toxic releases, greenhouse gas emissions, and cancer-causing pollution. Using DID-PSM on Boardroom Accountability Project (BAP) event. Compares outcomes for plants of firms targeted by the BAP to plants of similar firms that were not targeted by the BAP.
+
+Data: Compustat, CRSP, Institutional Shareholder Services (ISS), and Thomson Reuters ASSET4 database, plus BAP and other enviromental related data.
+
+
+```diff
+- PSM + DID
+
+- Matching covariates: 
+Firm size, return on assets, market-to-book ratio, and ASSET4 score
+
+- Difference-in-differences setting:
+
+Dependent variables can be logarithm of emissions without or with scaling. 
+
+Core intersection item is Environment X Post.
+Environment 
+= 1 if if the BAP targets the firm for environmental reasons. 
+Post 
+= 1 for the firm-year following the first target year of the BAP.
+
+Control for plant-chemical fixed effects, and chemical-year fixed effects.
+```
+
 ### Mortgage Markets with Climate-Change Risk: Evidence from Wildfires in California
 
 Causal relationship between mortgage performance (i.e., delinquency and foreclosure) and climate-change-driven events (i.e., wildfires), using 4 databases: 1. Wildfire events; 2. Mortgage characteristics and performance; 3. Mortgage geolocation and property characteristics; 4. Weather.
 
 
 ```diff
-- DID + + Panel
+- DID + Panel
 
 - 1 Difference-in-differences setting:
 
 Dependent variables can be delinquency or foreclosure of a morgage. 
 
 Core intersection item is Treatment X Afterfire.
-
 Treatment 
 = 1 if active mortgage falls inside the wildfire zone and 0 otherwise; 
-
 Afterfire 
 = 1 if after the fire and 0 otherwise;
 
@@ -26,11 +50,9 @@ Control for mortgage characteristics.
 
 Dependent variables and controls are same as above. 
 
-Core intersection item is Treatment X Afterfire X Bigfire1or2.
-
+Core intersection item is Treatment X Afterfire X Bigfire(1or2).
 Bigfire1 
 = the number of mortgages affected by the wildfire;
-
 Bigfire2
 = 1 if the mortgage is affected by a fire that is 1 sd above the average
 wild fire in terms of mortgages affected.
@@ -66,11 +88,9 @@ a judge is **randomly selected** from the federal judges that preside over that 
 Dependent variables can be the type of decision of guilt, or fine. 
 
 Core intersection item is Democrat X DemocratTilt
-
 Democrat 
 = 1 if the judge is nominated by a Democrat President, 
 = 0 if Republican.
-
 DemocratTilt 
 = 1 if cases involving labor or environmental crimes;
 = -1 if immigration crimes; 
