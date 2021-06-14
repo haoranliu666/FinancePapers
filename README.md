@@ -1,8 +1,6 @@
 # FinancePapers
 Summary of some finance papers I'm interested in.
 
-## AFA2021
-
 ### Mortgage Markets with Climate-Change Risk: Evidence from Wildfires in California
 
 Causal relationship between mortgage performance (i.e., delinquency and foreclosure) and climate-change-driven events (i.e., wildfires), using 4 databases: 1. Wildfire events; 2. Mortgage characteristics and performance; 3. Mortgage geolocation and property characteristics; 4. Weather.
