@@ -1,5 +1,8 @@
 # FinancePapers
 
+### Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?
+
+
 ### Option Momentum
 
 Stock options with high historical returns continue to outperform options with low returns.
