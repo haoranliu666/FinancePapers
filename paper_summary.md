@@ -1,6 +1,38 @@
 # FinancePapers
 
+### Did securitization lead to lax screening? Evidence from subprime loans
+
+Regressional Discontinuity Design. 
+
+Using FICO score, 620.
+
 ### Big Bad Banks? The Winners and Losers from Bank Deregulation in the United States
+
+Studied causal impact of bank regulations on income distribution using a two-way fixed effect difference-in-difference design.
+
+Random treatment validation:
+
+Neither the level nor rate of change in the distribution of income before deregulation help predict when a state removed restrictions on bank branching, suggesting that the timing of branch deregulation at the state level is exogenous to the state’s distribution of income.
+
+```diff
+- DID
+
+- Difference-in-differences setting:
+
+Dependent variables are measurements of income inequality. 
+
+(1) Gini coefficient; 
+
+(2) Theil index; 
+
+(3) difference between the natural logarithm of incomes of those at the 90th percentile and those at the 10th percentile; 
+
+(4) difference between the natural logarithm of incomes of those at the 75th percentile and those at the 25th percentile.
+
+Core intersection item is Treat X Post.
+
+Control for growth rate of per capita Gross State Product (GSP), unemployment rate, and other state-level time varying attributes, year-state fixed effects, allowing for state-level clustering of the errors.
+```
 
 ### Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?
 
