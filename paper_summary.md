@@ -36,6 +36,20 @@ Control for growth rate of per capita Gross State Product (GSP), unemployment ra
 
 ### Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?
 
+An RFS paper about bitcoin and illegal activity
+
+about half of bitcoin transations involve in illegal activity
+
+network algorithm; bitcoin blockchain;   users -> illegal users
+
+illegal users transact more, with smaller transactions,  denser network
+
+intrinsic value of bitcoin
+
+1. seized users
+2. darknet wallet
+3. darknet forum
+
 
 ### Option Momentum
 
