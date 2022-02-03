@@ -1,5 +1,25 @@
 # FinancePapers
 
+### Political Uncertainty and Corporate Investment Cycles
+
+During election years, firms reduce investment expenditures by an average of 4.8% relative to nonelection years.
+
+Univariate analysis: Corporate investment over total asset at -2, -1, 0, +1, +2 years
+
+Multivariate analysis: Investment = ElectionDummy + Q + CF + GDPgrowth + FirmFE + TimeFE + control
+
+Tobin Q is a proxy for the incentive to invest.
+
+Variation analysis: I = Elect\*X + Elect + X + control
+
+X can be:
+
+1. common law countries vs. civil law countries
+2. presidential system vs. parliamentary system
+3. checks and balances measure
+4. government stability measure
+5. ratio of central government spending to GDP
+
 ### Did securitization lead to lax screening? Evidence from subprime loans
 
 Regressional Discontinuity Design. 
