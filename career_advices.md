@@ -3,3 +3,7 @@
 [Finance Job Market Advice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2779200), Peter Iliev
 
 [Some tips about social and professional norms in US academia for international PhD students](https://docs.google.com/document/d/1E8rryh-gj1IzsxNT_Sd29-SrzaKFMFIbG7v-e5KkzOs/edit), Anthony Lee Zhang
+
+[So you want to go on the job market](https://thelittledataset.com/2022/03/21/job-mkt/)\*, Alex Albright
+
+\*unread yet
